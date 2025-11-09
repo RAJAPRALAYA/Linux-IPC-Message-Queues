@@ -1,9 +1,9 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
-### NAME: G.Sindhu Priya Reddy
+### NAME: PRALAYAKAVERI RAJA
 
-### REG NO:212224040319
+### REG NO:21222403202
 
 # AIM:
 To write a C program that receives a message from message queue and display them
